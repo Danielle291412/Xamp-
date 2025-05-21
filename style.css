@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(219, 186, 250);
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+   
+}
+
+form {
+    display: flex;
+    flex-direction:inherit;
+
+}
+
+input {
+    padding: 10px;
+    display: flex;
+
+   
+}
+
+button {
+    color: rgb(0, 0, 0);
+    background-color: rgb(235, 192, 255);
+    display: flex;
+ 
+}
